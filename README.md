@@ -40,7 +40,7 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/vinayak-madivalar" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
