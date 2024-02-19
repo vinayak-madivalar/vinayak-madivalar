@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <h1 align="left">Hi! My name is Vinayak Madivalar😄</h1>
 
 ###
@@ -41,6 +33,11 @@
 <div align="left">
   <a href="https://linkedin.com/in/vinayak-madivalar" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+<div align="left">
+  <a href="mailto:vinayak.m0157@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo"  />
 </div>
 
 ###
