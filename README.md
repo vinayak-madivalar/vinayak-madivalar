@@ -19,6 +19,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=next" height="50" alt="next logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
