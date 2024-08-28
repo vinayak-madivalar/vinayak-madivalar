@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌏 I am a Front-End Developer based in  India.</p>
+<p align="left">🌏 I am a Front-End Developer based in Bengaluru, India.</p>
 
 ###
 
@@ -24,6 +24,11 @@
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+
 </div>
 
 ###
