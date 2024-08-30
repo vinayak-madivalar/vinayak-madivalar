@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinayak Madivalar</h1>
-<h3 align="center">A passionate Frontend Developer from Bengaluru</h3>
+<h3 align="center">A passionate Frontend Developer from Bengaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-madivalar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-madivalar" /> </p>
 
 
 - 👨‍💻 My Portfolio <a href="https://vinayak-dev.vercel.app/" target="blank">vinayak-dev.vercel.app</a>
 
-- 💬 Ask me about **JavaScript/TS, React, Next.js 14, Redux, Tailwind css**
+- 💬 Ask me about **JavaScript/TS, React, Next.js 14, Redux, Tailwind CSS.**
 
 - 📫 How to reach me **vinayak.m0157@gmail.com**
 
