@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinayak Madivalar</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-madivalar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-madivalar" /> </p>
+<p align="left"> 
+  
+  <a href="https://www.linkedin.com/in/vinayak-madivalar/"><img src="https://img.shields.io/badge/LinkedIn--green?labelColor=white&style=social&logo=linkedin&logoColor=blue" alt="LinkedIn" /></a>
+  <a href="https://x.com/vinayakm45"><img src="https://img.shields.io/twitter/follow/vinayakm45?label=Twitter&style=social" alt="Twitter"></a>
+  
+</p>
 
 
 - 👨‍💻 My Portfolio <a href="https://vinayak-dev.vercel.app/" target="blank">vinayak-dev.vercel.app</a>
