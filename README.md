@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vinayak Madivalar
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-madivalar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-madivalar" /> </p>
+
 
 - 👨‍💻 My Portfolio <a href="https://vinayak-dev.vercel.app/" target="blank">Click Here</a>
 
