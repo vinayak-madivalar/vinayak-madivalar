@@ -3,8 +3,6 @@
 
 - 👨‍💻 My Portfolio <a href="https://vinayak-dev.vercel.app/" target="blank">Click Here</a>
 
-- 💬 Ask me about **JavaScript/TypeScript, ReactJS, NextJS & Tailwind CSS.**
-
 - 📭 How to reach me **vinayak.m0157@gmail.com**
 
 
