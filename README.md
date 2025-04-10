@@ -1,6 +1,7 @@
 # Hi 👋, I'm Vinayak Madivalar
   
 - 👨‍💻 My Portfolio <a href="https://vinayak-dev.vercel.app/" target="blank">Click Here</a>
+
 - 📭 How to reach me **vinayak.m0157@gmail.com**
 
 
