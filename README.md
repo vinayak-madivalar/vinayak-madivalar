@@ -4,7 +4,7 @@
   
 - 👨‍💻 My Portfolio <a href="https://vinayak-dev.vercel.app/" target="blank">Click Here</a>
 
-- 💬 Let's talk about **JavaScript/TypeScript, ReactJS, NEXT.JS, Redux, Tailwind, css,**
+- 💬 Let's talk about **JavaScript/TypeScript, React.js, Next.js, Redux, Tailwind CSS.**
 
 - 📭 How to reach me **vinayak.m0157@gmail.com**
 
@@ -16,6 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,redux,git,html,css)](https://skillicons.dev) 
+
+
 
 
 
