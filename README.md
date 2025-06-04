@@ -10,14 +10,14 @@
 
 #### Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript)](https://www.typescriptlang.org/docs/)
-[![React](https://img.shields.io/badge/React-gray?logo=react)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-gray?logo=next.js)](https://nextjs.org/docs)
-[![Tailwind](https://img.shields.io/badge/Tailwind-gray?logo=tailwindcss)](https://tailwindcss.com/docs)
-[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=node.js)](https://nodejs.org/docs/latest/api/)
-[![Redux](https://img.shields.io/badge/Redux-gray?logo=redux)](https://redux-toolkit.js.org/)
-[![Git](https://img.shields.io/badge/Git-gray?logo=git)](https://git-scm.com/doc)
+[![JavaScript](https://img.shields.io/badge/JavaScript-414141?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-414141?logo=typescript)](https://www.typescriptlang.org/docs/)
+[![React](https://img.shields.io/badge/React-414141?logo=react)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-414141?logo=next.js)](https://nextjs.org/docs)
+[![Tailwind](https://img.shields.io/badge/Tailwind-414141?logo=tailwindcss)](https://tailwindcss.com/docs)
+[![Node.js](https://img.shields.io/badge/Node.js-414141?logo=node.js)](https://nodejs.org/docs/latest/api/)
+[![Redux](https://img.shields.io/badge/Redux-414141?logo=redux&logoColor=764ABC)](https://redux-toolkit.js.org/)
+[![Git](https://img.shields.io/badge/Git-414141?logo=git)](https://git-scm.com/doc)
 
 
 
