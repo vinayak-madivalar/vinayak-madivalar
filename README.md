@@ -1,3 +1,5 @@
+[![🚀 Available for New Opportunity](https://img.shields.io/badge/-🚀%20Available%20for%20New%20Opportunity-414141?style=plastic&logoColor=white)](mailto:vinayak.m0157@gmail.com?subject=Opportunity%20to%20Connect&body=Hi%20Vinayak%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20discuss%20a%20potential%20opportunity%20with%20you.%0A%0ALet%20me%20know%20a%20good%20time%20to%20connect.%0A%0ABest%20regards%2C%0A)
+
 ### Hi👋, I'm Vinayak Madivalar
 
 <samp>
@@ -6,7 +8,6 @@
   <a href="https://x.com/vinayakm45">twitter</a> •
   <a href="https://linkedin.com/in/vinayak-madivalar">linkedin</a>
 </samp>
-
 
 #### Tech Stack
 
