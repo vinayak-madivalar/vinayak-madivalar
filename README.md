@@ -1,4 +1,4 @@
-[![🚀 Available for New Opportunity](https://img.shields.io/badge/-🚀%20Available%20for%20New%20Opportunity-414141?style=plastic&logoColor=white)](mailto:vinayak.m0157@gmail.com?subject=Opportunity%20to%20Connect&body=Hi%20Vinayak%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20discuss%20a%20potential%20opportunity%20with%20you.%0A%0ALet%20me%20know%20a%20good%20time%20to%20connect.%0A%0ABest%20regards%2C%0A)
+[![🟢 Available for New Opportunity](https://img.shields.io/badge/-🚀%20Available%20for%20New%20Opportunity-414141?style=plastic&logoColor=white)](mailto:vinayak.m0157@gmail.com?subject=Opportunity%20to%20Connect&body=Hi%20Vinayak%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20discuss%20a%20potential%20opportunity%20with%20you.%0A%0ALet%20me%20know%20a%20good%20time%20to%20connect.%0A%0ABest%20regards%2C%0A)
 
 ### Hi👋, I'm Vinayak Madivalar
 
@@ -15,10 +15,14 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-313131?logo=typescript)](https://www.typescriptlang.org/docs/)
 [![React](https://img.shields.io/badge/React-313131?logo=react)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-313131?logo=next.js)](https://nextjs.org/docs)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-313131?logo=tailwindcss)](https://tailwindcss.com/docs)
 [![Node.js](https://img.shields.io/badge/Node.js-313131?logo=node.js)](https://nodejs.org/docs/latest/api/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-313131?logo=tailwindcss)](https://tailwindcss.com/docs)
 [![Redux](https://img.shields.io/badge/Redux-313131?logo=redux&logoColor=764ABC)](https://redux-toolkit.js.org/)
 [![Git](https://img.shields.io/badge/Git-313131?logo=git)](https://git-scm.com/doc)
+<!--[![Express.js](https://img.shields.io/badge/Express.js-313131?logo=express)](https://expressjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313131?logo=postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-313131?logo=mongodb)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-313131?logo=docker)](https://docs.docker.com/)-->
 
 
 
